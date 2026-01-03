@@ -1,0 +1,15 @@
+Student Marks Calculator
+
+Description:
+This project calculates total marks and percentage.
+
+Input:
+- Student name
+- Marks of 3 subjects
+
+Output:
+- Total marks
+- Percentage
+
+Purpose:
+Learning GitHub basics using browser.
