@@ -13,3 +13,9 @@ Output:
 
 Purpose:
 Learning GitHub basics using browser.
+
+Steps:
+1. Take marks from user
+2. Add all marks
+3. Divide by number of subjects
+
